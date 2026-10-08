@@ -2,6 +2,9 @@
 
 Servidor em Python que emula os serviços de rede utilizados pelos cartuchos **MegaNet** e **Telebradesco** do Mega Drive. O projeto oferece transporte TCP e serial, suporte a integração com módulos Asterisk, conteúdo editável, contas de demonstração, correio MegaNet e uma interface administrativa web.
 
+Pode ser usado o emulador Bizhawk modificado para conectar via TCP ou serial:
+
+https://github.com/fabriciotm/BizHawk-Meganet_Telebradesco
 
 > Os dados incluídos no repositório são inteiramente fictícios e existem apenas para demonstração e testes.
 
