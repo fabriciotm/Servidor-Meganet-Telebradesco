@@ -1,0 +1,158 @@
+{
+  "accounts": {
+    "1234-1234567-4": {
+      "cartoes": [
+        {
+          "bandeira": "VISA",
+          "compras": [
+            {
+              "data": "01/10/26",
+              "descricao": "LOCADORA RETRO",
+              "valor": "49,90"
+            },
+            {
+              "data": "04/10/26",
+              "descricao": "LIVRARIA CENTRAL",
+              "valor": "78,50"
+            },
+            {
+              "data": "07/10/26",
+              "descricao": "LANCHONETE",
+              "valor": "35,40"
+            }
+          ],
+          "data_cartao": "1508",
+          "final": "2048"
+        }
+      ],
+      "conta_corrente": {
+        "data_saldo": "08/10/26",
+        "extrato": [
+          {
+            "data": "08/10",
+            "documento": "1000001",
+            "historico": "SALARIO DEMO",
+            "valor": "2500,00"
+          },
+          {
+            "data": "07/10",
+            "documento": "1000002",
+            "historico": "SUPERMERCADO",
+            "valor": "-327,42"
+          },
+          {
+            "data": "06/10",
+            "documento": "1000003",
+            "historico": "CONTA LUZ",
+            "valor": "-114,85"
+          },
+          {
+            "data": "05/10",
+            "documento": "1000004",
+            "historico": "PIX TESTE",
+            "valor": "-215,00"
+          }
+        ],
+        "lancamentos_futuros": [
+          {
+            "data": "10/10",
+            "documento": "2000001",
+            "historico": "INTERNET",
+            "valor": "-99,90"
+          },
+          {
+            "data": "12/10",
+            "documento": "2000002",
+            "historico": "CARTAO DEMO",
+            "valor": "-438,20"
+          }
+        ],
+        "saldo": "1842,73",
+        "saldo_disponivel": "1842,73",
+        "saldo_total": "2092,73",
+        "saldo_vinculado": "250,00",
+        "texto_auxiliar": "CONTA DE DEMONSTRACAO",
+        "titulo": "CONTA CORRENTE",
+        "ultimos_lancamentos": [
+          {
+            "data": "06/10/26",
+            "valor": "1725,31"
+          },
+          {
+            "data": "07/10/26",
+            "valor": "2057,73"
+          },
+          {
+            "data": "08/10/26",
+            "valor": "2092,73"
+          }
+        ]
+      },
+      "investimentos": [
+        {
+          "descricao": "CDB DEMO 001",
+          "valor": "R$ 3.540,21"
+        },
+        {
+          "descricao": "FUNDO DEMO 02",
+          "valor": "R$ 1.230,00"
+        }
+      ],
+      "poupanca": {
+        "data_saldo": "08/10/26",
+        "extrato_total": [
+          {
+            "data": "03/10",
+            "documento": "3000001",
+            "historico": "DEPOSITO DEMO",
+            "valor": "500,00"
+          },
+          {
+            "data": "08/10",
+            "documento": "3000002",
+            "historico": "RENDIMENTO",
+            "valor": "8,17"
+          }
+        ],
+        "resumo": [
+          {
+            "data": "06/10/26",
+            "valor": "4310,25"
+          },
+          {
+            "data": "07/10/26",
+            "valor": "4312,93"
+          },
+          {
+            "data": "08/10/26",
+            "valor": "4321,10"
+          }
+        ],
+        "saldo": "4321,10",
+        "saldo_disponivel": "4321,10",
+        "saldo_total": "4321,10",
+        "saldo_vinculado": "0,00",
+        "texto_auxiliar": "RESERVA DE DEMONSTRACAO",
+        "titulo": "POUPANCA",
+        "ultimos_lancamentos": [
+          {
+            "data": "03/10",
+            "documento": "3000001",
+            "historico": "DEPOSITO DEMO",
+            "valor": "500,00"
+          },
+          {
+            "data": "08/10",
+            "documento": "3000002",
+            "historico": "RENDIMENTO",
+            "valor": "8,17"
+          }
+        ]
+      },
+      "schema": "telebradesco_content_v5",
+      "updated_at": "2026-10-08T20:22:24+00:00"
+    }
+  },
+  "schema": "telebradesco_accounts_content_v1",
+  "updated_at": "2026-10-08T20:22:24+00:00"
+}

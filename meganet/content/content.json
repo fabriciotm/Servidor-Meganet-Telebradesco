@@ -1,0 +1,208 @@
+{
+  "schema": "meganet_content_v1",
+  "created_at": "2026-10-08T20:22:24+00:00",
+  "updated_at": "2026-10-08T20:26:11+00:00",
+  "connection_panel_lines": [
+    "CONECTADO AO SERVIDOR DEMO",
+    "CORREIO: {mail_count} MENSAGENS",
+    "CONTEUDO DE DEMONSTRACAO"
+  ],
+  "message_lines": [
+    "SERVIDOR MEGA NET ONLINE",
+    "DADOS FICTICIOS PARA TESTE"
+  ],
+  "tectoy_news_lines": [
+    "MEGA NET NEWS",
+    "EDICAO DE DEMONSTRACAO",
+    "BEM VINDO AO SERVIDOR"
+  ],
+  "content_records": {
+    "tectoy_news.promocoes": [
+      "TECTOY NEWS - PROMOÇÕES",
+      "DESTAQUE DA SEMANA",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "tectoy_news.produtos.g_gear": [
+      "TECTOY NEWS - G. GEAR",
+      "ARQUIVO RETRO EM TESTE",
+      "BOA DIVERSAO"
+    ],
+    "tectoy_news.produtos.master": [
+      "TECTOY NEWS - MASTER",
+      "GUIA RAPIDO PARA JOGADORES",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "tectoy_news.produtos.mega": [
+      "TECTOY NEWS - MEGA",
+      "NOVIDADES DIRETO DA REDE",
+      "ATE A PROXIMA CONEXAO"
+    ],
+    "tectoy_news.produtos.32x": [
+      "TECTOY NEWS - 32 X",
+      "GUIA RAPIDO PARA JOGADORES",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "tectoy_news.produtos.sega_cd": [
+      "TECTOY NEWS - SEGA CD",
+      "ESPECIAL PARA ESTA CONEXAO",
+      "ATE A PROXIMA CONEXAO"
+    ],
+    "tectoy_news.produtos.sega_saturn": [
+      "TECTOY NEWS - SEGA SATURN",
+      "GUIA RAPIDO PARA JOGADORES",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "tectoy_news.produtos.pc_cd_rom": [
+      "TECTOY NEWS - PC CD ROM",
+      "NOVIDADES DIRETO DA REDE",
+      "CONTEUDO GERADO PARA DEMO"
+    ],
+    "tectoy_news.produtos.outros": [
+      "TECTOY NEWS - OUTROS",
+      "ESPECIAL PARA ESTA CONEXAO",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "tectoy_news.lancamentos": [
+      "TECTOY NEWS - LANÇAMENTOS",
+      "NOVIDADES DIRETO DA REDE",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "dicas.sega_cd": [
+      "DICAS - SEGA CD",
+      "DESTAQUE DA SEMANA",
+      "BOA DIVERSAO"
+    ],
+    "dicas.mega": [
+      "DICAS - MEGA",
+      "GUIA RAPIDO PARA JOGADORES",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "dicas.32x": [
+      "DICAS - 32 X",
+      "ARQUIVO RETRO EM TESTE",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "sega_club.o_que_e": [
+      "SEGA CLUB - O QUE É?",
+      "GUIA RAPIDO PARA JOGADORES",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "sega_club.p_ficar_socio": [
+      "SEGA CLUB - P/ FICAR SÓCIO",
+      "CONTEUDO FICTICIO DO SERVIDOR",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "sega_club.beneficios": [
+      "SEGA CLUB - BENEFÍCIOS",
+      "ESPECIAL PARA ESTA CONEXAO",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "sega_club.dicas": [
+      "SEGA CLUB - DICAS",
+      "ARQUIVO RETRO EM TESTE",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "sega_club.recordes": [
+      "SEGA CLUB - RECORDES",
+      "ARQUIVO RETRO EM TESTE",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "sega_club.infotocs": [
+      "SEGA CLUB - INFOTOCS",
+      "NOVIDADES DIRETO DA REDE",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "sega_club.promocoes": [
+      "SEGA CLUB - PROMOÇÕES",
+      "NOVIDADES DIRETO DA REDE",
+      "TESTE OS OUTROS MENUS"
+    ],
+    "sega_club.concursos": [
+      "SEGA CLUB - CONCURSOS",
+      "NOVIDADES DIRETO DA REDE",
+      "SALVE SEUS FAVORITOS"
+    ],
+    "internet.internet": [
+      "PORTAL MEGA NET",
+      "CHAT, CORREIO E INFORMACAO",
+      "SERVIDOR LOCAL DE DEMONSTRACAO",
+      "EXPLORE OS MENUS DISPONIVEIS"
+    ],
+    "internet.lista_mega_net": [
+      "INTERNET - LISTA MEGA NET",
+      "CONTEUDO FICTICIO DO SERVIDOR",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "revista.comics.lancamentos": [
+      "REVISTA - LANÇAMENTOS",
+      "DESTAQUE DA SEMANA",
+      "BOA DIVERSAO"
+    ],
+    "revista.comics.quem_e_quem": [
+      "REVISTA - QUEM É QUEM",
+      "DESTAQUE DA SEMANA",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "revista.comics.perfil": [
+      "REVISTA - PERFIL",
+      "NOVIDADES DIRETO DA REDE",
+      "ATE A PROXIMA CONEXAO"
+    ],
+    "revista.comics.acontece": [
+      "REVISTA - ACONTECE",
+      "NOVIDADES DIRETO DA REDE",
+      "ATE A PROXIMA CONEXAO"
+    ],
+    "revista.comics.home_shopping": [
+      "REVISTA - HOME SHOPPING",
+      "DESTAQUE DA SEMANA",
+      "BOA DIVERSAO"
+    ],
+    "revista.rpg.lancamentos": [
+      "REVISTA - LANÇAMENTOS",
+      "DESTAQUE DA SEMANA",
+      "ATE A PROXIMA CONEXAO"
+    ],
+    "revista.rpg.quem_e_quem": [
+      "REVISTA - QUEM É QUEM",
+      "GUIA RAPIDO PARA JOGADORES",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "revista.rpg.perfil": [
+      "REVISTA - PERFIL",
+      "DESTAQUE DA SEMANA",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "revista.rpg.dicas": [
+      "REVISTA - DICAS",
+      "GUIA RAPIDO PARA JOGADORES",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "revista.rpg.acontece": [
+      "REVISTA - ACONTECE",
+      "NOVIDADES DIRETO DA REDE",
+      "CONTEUDO GERADO PARA DEMO"
+    ],
+    "revista.rpg.home_shopping": [
+      "REVISTA - HOME SHOPPING",
+      "ARQUIVO RETRO EM TESTE",
+      "VOLTE AMANHA PARA MAIS"
+    ],
+    "outros.outros": [
+      "OUTROS - OUTROS",
+      "NOVIDADES DIRETO DA REDE",
+      "CONTEUDO GERADO PARA DEMO"
+    ],
+    "outros.home_shopping.games": [
+      "HOME SHOPPING - GAMES",
+      "SONIC 3 - OFERTA FICTICIA",
+      "STREETS OF RAGE - DESTAQUE",
+      "CONSULTE NOVAMENTE EM BREVE"
+    ],
+    "outros.home_shopping.variedades": [
+      "OUTROS - VARIEDADES",
+      "ARQUIVO RETRO EM TESTE",
+      "VOLTE AMANHA PARA MAIS"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-10-08T20:22:24+00:00",
+  "schema": "meganet_cadastros_v1",
+  "updated_at": "2026-10-08T20:22:24+00:00",
+  "users": {
+    "demo": {
+      "bootstrap_login": "MEGANET",
+      "bootstrap_password": "DEMO123",
+      "created_at": "2026-10-08T20:22:24+00:00",
+      "fields": {
+        "apelido": "DEMO",
+        "bairro": "CENTRO",
+        "cep": "01000000",
+        "cidade": "SAO PAULO",
+        "codigo_acesso": "DEMO1234565A",
+        "data_nascimento": "01/01/90",
+        "email_meganet": "demo@meganet.tectoy.com.br",
+        "endereco": "RUA DE DEMONSTRACAO",
+        "estado": "SP",
+        "fone_meganet": "00000000",
+        "mae": "MAE DEMO",
+        "nome": "USUARIO DEMO",
+        "nome_meganet": "DEMO",
+        "numero": "100",
+        "outros_videogames": "",
+        "pai": "PAI DEMO",
+        "quantidade_cartuchos": "12",
+        "senha": "1234",
+        "sexo": "M",
+        "telefone_casa": "0000000000",
+        "videogame_tectoy": "MEGA DRIVE"
+      },
+      "history": [],
+      "key_source": "nome_meganet",
+      "last_peer": "",
+      "last_session_id": "",
+      "profile_name": "DEMO",
+      "total_sessions": 0,
+      "updated_at": "2026-10-08T20:22:24+00:00",
+      "user_key": "demo"
+    }
+  }
+}

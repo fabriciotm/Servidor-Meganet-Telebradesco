@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "1234-1234567-4": {
+      "access_history": [],
+      "agencia": "1234",
+      "bloqueada": false,
+      "conta": "1234567",
+      "digito": "4",
+      "last_access_at": "",
+      "last_peer": "",
+      "nome": "CLIENTE DEMONSTRACAO",
+      "senha": "4321",
+      "total_accesses": 0
+    }
+  },
+  "schema": "telebradesco_accounts_v2",
+  "updated_at": "2026-10-08T20:22:24+00:00"
+}

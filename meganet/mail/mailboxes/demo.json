@@ -1,0 +1,37 @@
+{
+  "email": "demo@meganet.tectoy.com.br",
+  "created_at": "2026-10-08T12:00:00+00:00",
+  "messages": [
+    {
+      "id": "WELCOME-DEMO-0001",
+      "timestamp": "2026-10-08T12:00:00",
+      "from": "admin@meganet.tectoy.com.br",
+      "to": "demo@meganet.tectoy.com.br",
+      "subject": "BEM VINDO AO DEMO",
+      "body": [
+        "SERVIDOR PRONTO PARA TESTE",
+        "EXPLORE NEWS, INTERNET E REVISTA",
+        "ESTA MENSAGEM E FICTICIA"
+      ],
+      "type": "welcome",
+      "delivery_status": "delivered-internal"
+    },
+    {
+      "id": "DEMO-0002",
+      "timestamp": "2026-10-08T12:00:00",
+      "from": "amigo@meganet.tectoy.com.br",
+      "to": "demo@meganet.tectoy.com.br",
+      "subject": "ENCONTRO NO SEGA CLUB",
+      "body": [
+        "OLA DEMO",
+        "ESTE E UM EMAIL DE EXEMPLO",
+        "RESPONDA PELO CORREIO MEGA NET"
+      ],
+      "type": "email",
+      "delivery_status": "delivered-internal"
+    }
+  ],
+  "updated_at": "2026-10-08T12:00:00+00:00",
+  "panel_notice_count": 2,
+  "panel_notice_at": "2026-10-08T12:00:00+00:00"
+}
