@@ -116,7 +116,7 @@ Depois de `#bemvindo#/#ready#`, a ROM envia:
 Exemplo observado:
 
 ```text
-#id kavera 123ABC SSO#\r
+#id jose 123ABC SSO#\r
 ```
 
 A validação usa:
